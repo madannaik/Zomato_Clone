@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
+
 import 'Screens/HomePage.dart';
 
 void main() {
   runApp(MyApp());
 }
-
 
 class MyApp extends StatelessWidget {
   @override
@@ -14,6 +14,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
